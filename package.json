@@ -1,0 +1,16 @@
+{
+  "name": "wraithsdev-dmduyuru",
+  "version": "1.0.0",
+  "description": "Discord bot for DM announcements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": ["discord", "bot", "dm", "announcement"],
+  "author": "WraithsDev",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.0"
+  }
+}

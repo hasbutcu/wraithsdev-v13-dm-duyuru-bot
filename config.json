@@ -1,0 +1,11 @@
+{
+  "token": "bot-tokeniniz",
+  "prefix": "+",
+  "owners": ["kendi-idniz"],
+  "statuses": [
+    "Senle",
+    "Kalbimle",
+    "Hayatımla"
+  ],
+  "timers": 10
+}
