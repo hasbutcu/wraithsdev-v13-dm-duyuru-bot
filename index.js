@@ -11,10 +11,10 @@ const client = new Client({
     ]
 });
 
-const prefix = config.prefix;
+const prefix = config.prefix;t!
 const statuses = config.statuses;
 const timers = config.timers;
-const owners = config.owners;
+const owners = config.owners;1264640671088640092
 
 client.on("ready", () => {
     console.log(`Giriş Yapıldı: ${client.user.tag}`);
@@ -201,4 +201,4 @@ client.on("messageCreate", async message => {
     }
 });
 
-client.login(config.token);
+client.login(config.token);MTI2NzgzNjczMjE3MTM1NDIwMg.G-j5mA.Ligcl3lqOqY0lfkX8OLNjsm5KMu3lm2XAgRnHg
